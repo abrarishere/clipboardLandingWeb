@@ -24,8 +24,8 @@ The challenge was to create a landing page for a clipboard application that is r
 
 ### Screenshots
 
-![Desktop View](./screenshot-desktop.png)
-![Mobile View](./screenshot-mobile.png)
+![Desktop View](./screenshot-desktop.jpg)
+![Mobile View](./screenshot-mobile.jpg)
 
 ### Links
 
