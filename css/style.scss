@@ -315,6 +315,11 @@ footer {
   }
 }
 @media (max-width: 991px){
+  .ds, .ds-2{
+    .para{
+      width: 100%;
+    }
+  }
   .fs{
     align-content: center;
     left: 0;
@@ -331,6 +336,11 @@ footer {
     }
   }
   .as-img{
-    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    & img{
+      width: 60%;
+    }
   }
 }

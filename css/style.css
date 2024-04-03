@@ -334,6 +334,9 @@ footer .icons svg:hover path {
 }
 
 @media (max-width: 991px) {
+  .ds .para, .ds-2 .para {
+    width: 100%;
+  }
   .fs {
     align-content: center;
     left: 0;
@@ -348,8 +351,11 @@ footer .icons svg:hover path {
     width: 80%;
   }
   .as-img {
-    text-align:center;
+    text-align: center;
     margin: 0 auto;
-    width: 70%;
+    padding: 0 auto;
+  }
+  .as-img img {
+    width: 60%;
   }
 }
