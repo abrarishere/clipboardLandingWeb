@@ -315,6 +315,16 @@ footer {
   }
 }
 @media (max-width: 991px){
+  .ts{
+  .para{
+    text-align: center;
+    p{
+      position: relative;
+      left: -20%;
+      width: 140%;
+      font-size: 0.8rem;
+    }
+  }}
   .sc,.as{
     .para{
       width: 60%;
