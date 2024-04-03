@@ -24,12 +24,12 @@ body {
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
   color: #9fabb2;
 }
 
 .btn {
-  padding: 7px 42px;
+  padding: 14px 46px;
   border-radius: 40px;
   margin-right: 20px;
   border: none;
@@ -69,7 +69,7 @@ p {
 
 .para h1,
 .para h2,
-.para h4 {
+.para h3 {
   padding-bottom: 20px;
 }
 
@@ -87,7 +87,7 @@ p {
   justify-content: center;
   gap: 30px;
   padding: 0 130px;
-  padding-top: 100px;
+  padding-top: 130px;
 }
 
 .ds .para, .ds-2 .para {
@@ -279,7 +279,7 @@ footer .icons svg:hover path {
     width: 88%;
     margin: 30px auto;
   }
-  .fs .para h4 {
+  .fs .para h3 {
     padding-bottom: 0px;
   }
   .as {
@@ -334,6 +334,9 @@ footer .icons svg:hover path {
 }
 
 @media (max-width: 991px) {
+  .ds, .ds-2 {
+    padding-top: 140px;
+  }
   .ds .para, .ds-2 .para {
     width: 100%;
   }
