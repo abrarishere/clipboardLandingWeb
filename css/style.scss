@@ -322,7 +322,7 @@ footer {
       position: relative;
       left: -20%;
       width: 140%;
-      font-size: 0.8rem;
+      font-size: 1rem;
     }
   }}
   .sc,.as{
@@ -351,6 +351,8 @@ footer {
       }
     }
     & .fs-2 .para{
+      width: 90%;
+      text-align: center;
       h3{
         font-size: 1.2rem;
       }
