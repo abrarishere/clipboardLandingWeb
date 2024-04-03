@@ -348,6 +348,8 @@ footer .icons svg:hover path {
     width: 80%;
   }
   .as-img {
+    text-align:center;
+    margin: 0 auto;
     width: 70%;
   }
 }
