@@ -207,7 +207,7 @@ footer {
 @media (max-width: 768px){
   .para {
     & h1{
-        font-size: 1rem;
+        font-size: 1.2rem;
       }
       & p{
         font-size: 0.8rem;
@@ -259,7 +259,7 @@ footer {
       width: 88%;
       margin: 30px auto;
       & h3{
-        padding-bottom: 0px;
+        padding-bottom: 5px;
       }
     }
   }
@@ -348,6 +348,14 @@ footer {
     .fs-1{
       & img{
         width: 80%;
+      }
+    }
+    & .fs-2 .para{
+      h3{
+        font-size: 1.2rem;
+      }
+      p{
+        font-size: 1rem;
       }
     }
   }

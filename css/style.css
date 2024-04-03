@@ -226,7 +226,7 @@ footer .icons svg:hover path {
 
 @media (max-width: 768px) {
   .para h1 {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   .para p {
     font-size: 0.8rem;
@@ -280,7 +280,7 @@ footer .icons svg:hover path {
     margin: 30px auto;
   }
   .fs .para h3 {
-    padding-bottom: 0px;
+    padding-bottom: 5px;
   }
   .as {
     gap: 50px;
@@ -364,6 +364,12 @@ footer .icons svg:hover path {
   }
   .fs .fs-1 img {
     width: 80%;
+  }
+  .fs .fs-2 .para h3 {
+    font-size: 1.2rem;
+  }
+  .fs .fs-2 .para p {
+    font-size: 1rem;
   }
   .as-img {
     text-align: center;
